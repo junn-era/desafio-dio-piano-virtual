@@ -124,3 +124,7 @@ header .column span {
 .piano-keys .key.hide span {
     display: none;
 }
+
+.piano-keys .key.key.hide span {
+    display: none;
+}
